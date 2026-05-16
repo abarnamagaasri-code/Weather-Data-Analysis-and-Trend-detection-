@@ -6,6 +6,7 @@ This project analyzes weather data and detects weather trends using Python.
 ## Files Included
 - weather_analysis.py
 - weather_analysis.py
+
 ## Technologies Used
 - Python
 - Pandas
