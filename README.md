@@ -25,5 +25,9 @@ This project analyzes weather data and detects weather trends using Python.
 ### Temperature Trend By Station
 ![Temperature Trend](graph3_temp_trend_by_station.png)
 
+graph1_avg_temp_by_month.png
+graph2_rainfall_by_location.png
+graph3_temp_trend_by_station.png
+
 ## Author
 Abarna
